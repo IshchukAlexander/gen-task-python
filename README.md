@@ -7,9 +7,9 @@ Test automation task for GEN gen-task-python
 1. Install Python 3.11 from official site - (https://www.python.org/downloads/)
 2. Create venv dir inside project with command:
 ```sh
-python -m venv venv
+python3 -m venv venv
 ```
-3. Activate venv:
+3. Activate venv:<br>
 on Windows:
 ```sh
 .\venv\Scripts\activate
